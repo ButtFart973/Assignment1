@@ -33,3 +33,9 @@ print("CS 1430  |  Introduction to Python  |  UW-Platteville")
 
 
 # ---------------------- ADD YOUR CODE BELOW THIS LINE ---------------------
+print("""L      IIIII  L      EEEEE  Y   Y
+L        I    L      E      Y Y
+L        I    L      EEEE    Y
+L        I    L      E      Y
+LLLLL  IIIII  LLLLL  EEEEE  Y""")
+print ("Made by Liley")
